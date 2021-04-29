@@ -1,0 +1,12 @@
+{
+    "verify-account-huntsub-network-system": "[Huntsubネットワークのアカウントを確認しています]",
+    "greating": "こんにちは,",
+    "thank-you-for-register-on-my-system": "私たちのシステムに登録していただきありがとうございます",
+    "please-verify": "アクティブなアカウントについては、以下のリンクをクリックしてください",
+    "signature": "どうもありがとう",
+    "get-back-password": "パスワードの取得",
+    "new-password":"新しいパスワード :",
+    "we-have-got-a-requirement-get-back-password": "パスワードの取得が必要です",
+    "please-verify-by-link-below": "以下のリンクで確認してください",
+    "system-will-be-sent-a-new-password-to-you": "システムに新しいパスワードが送信されます"
+}

@@ -1,0 +1,16 @@
+[station.sync]
+Mode        = "master"
+Master      = "http://localhost:3000"
+[station.server]
+Port=3000
+#HttpsPort    = 8443
+[station.log]
+LogDir      = "log"
+LogToStdErr = true
+Verbosity   = 0
+[station.static]
+AppFolder       = "app"
+
+[database]
+DBHost          = "localhost:27017"
+DBName          = "huntsub-server"

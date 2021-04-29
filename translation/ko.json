@@ -1,0 +1,12 @@
+{
+    "verify-account-huntsub-network-system": "[Huntsub 네트워크에서 계정 확인]",
+    "greating": "안녕,",
+    "thank-you-for-register-on-my-system": "저희 시스템에 등록 해 주셔서 감사합니다",
+    "please-verify": "활성 계정을 보려면 아래 링크를 클릭하십시오.",
+    "signature": "많은 감사",
+    "get-back-password": "암호 검색",
+    "new-password":"새 비밀번호 :",
+    "we-have-got-a-requirement-get-back-password": "요구 사항 암호 검색이 있습니다.",
+    "please-verify-by-link-below": "아래 링크로 확인하십시오",
+    "system-will-be-sent-a-new-password-to-you": "시스템에서 새 암호를 보내드립니다."
+}
